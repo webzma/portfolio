@@ -1,7 +1,7 @@
 # Mi portafolio ❤️
 Un portafolio sencillo, bello y hermoso elaborado por webzma.
 
-**Tecnologías utilizadas: **
+**Tecnologías utilizadas:**
 
 - HTML
 - CSS
