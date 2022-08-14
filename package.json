@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-webzma",
+  "version": "1.0.0",
+  "description": "My personal web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "webzma",
+    "webzmadev",
+    "wilberk-ledezma",
+  ],
+  "author": "Wilberk Ledezma <ledezma.wilberk@gmail.com>",
+  "license": "MIT"
+}
